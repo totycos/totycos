@@ -2,7 +2,7 @@
 
 <h2>🛠 Skills</h2>
 <div align="left">
-  <img src="./img-aboutme.png" width="380" align="right" />
+  <img src="./img-aboutme.gif" width="380" align="right" />
   <ul>
     <h5>
     <li><i>Front-end & Back-end Development:</i> Crafting interactive user interfaces and robust server architectures. Skilled in frameworks and libraries like <code>React</code> and <code>Rails</code>, for peak performance.</li><br />
@@ -43,5 +43,3 @@
 ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-> > > > > > > 1e64383 (readme done)
