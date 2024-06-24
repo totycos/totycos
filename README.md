@@ -2,10 +2,7 @@
 
 <h2>🛠 Skills</h2>
 <div align="left">
-  <div style="margin-left: 20px;">
-    <img src="./img-aboutme.gif" width="380" align="right" />
-  </div>
-
+  <img src="./img-aboutme.gif" width="380" align="right" />
   <ul>
     <h5>
     <li><i>Front-end & Back-end Development:</i> Crafting interactive user interfaces and robust server architectures. Skilled in frameworks and libraries like <code>React</code> and <code>Rails</code>, for peak performance.</li><br />
